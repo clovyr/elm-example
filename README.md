@@ -18,11 +18,11 @@ implemented in several popular programming languages.
 
 ## Running the examples
 
-1. Navigate to one of the example directories:<br/>
+1. Navigate to one of the example directories:  
 `cd ~/git/github.com/clovyr/elm-example/examples/todomvc`
-1. Build the project<br>
+1. Build the project  
 `elm make src/Main.elm --output=elm.js`
-1. Run the server<br>
+1. Run the server  
 `python3 -m http.server 8080`
 1. In a new browser tab, enter the url of your Clovyr Code instance
 prefixed by `8080-`
